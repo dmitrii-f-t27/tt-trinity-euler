@@ -90,7 +90,7 @@ Detailed description explaining the change.
 
 Closes #<issue>
 
-Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
+Author: Dmitrii Fedorov (@dmitrii-f-t27)
 ```
 
 ### Types
@@ -129,7 +129,7 @@ TA1 traceability documented in CLARA_TRACEABILITY.md.
 
 Closes #45
 
-Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
+Author: Dmitrii Fedorov (@dmitrii-f-t27)
 ```
 
 ```
@@ -140,7 +140,7 @@ order. Fixed to match FHRR specification.
 
 Closes #72
 
-Co-Authored-By: Claude Opus 4.6 <noreply@anthropic.com>
+Author: Dmitrii Fedorov (@dmitrii-f-t27)
 ```
 
 ---
